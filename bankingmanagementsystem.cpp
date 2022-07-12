@@ -339,11 +339,6 @@ void intro()
     cout << endl << endl;
 
     cout << "\t\t\tThis project is done by:" << endl << endl;
-    cout << "\t\t\tGhadi Riyani - ID: 2190000354" << endl;
-    cout << "\t\t\tRaghad Alnahdi - ID: 2190003070" << endl;
-    cout << "\t\t\tRawan Almoaibed - ID: 2190003682" << endl;
-    cout << "\t\t\tDaniah Alharthi - ID: 2190004427" << endl;
-    cout << "\t\t\tAljohara Alshukr - ID: 2180005529" << endl;
 
     cout << endl << endl;
 
